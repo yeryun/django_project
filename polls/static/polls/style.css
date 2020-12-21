@@ -1,0 +1,14 @@
+body {
+    background:white url("images/photo01.jpg") no-repeat;
+    background-position: right top;
+    margin-top: 100px;
+
+}
+
+li a {
+    color:#5C412A;
+}
+
+h2 {margin-left: 25px;}
+form {margin-left: 30px;}
+
